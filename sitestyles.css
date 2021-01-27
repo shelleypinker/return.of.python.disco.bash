@@ -1,0 +1,73 @@
+.btn   {
+    background: #64BEB6;
+    color: white
+}
+
+body {
+    font-family: 'Quattrocento Sans', sans-serif;
+    background: url('./img/background_image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.alert-success {
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+    font-size: 150%;
+    border: 3px solid green;
+    
+}
+
+.jumbotron {
+        text-align: center;
+        font-family: 'Noto Sans', sans-serif;
+        font-size: large;
+        border: 3px solid green;
+        background:
+        -webkit-linear-gradient(315deg, hsla(9.23, 82.98%, 90.78%, 1) 0%, hsla(9.23, 82.98%, 90.78%, 0) 70%),
+        -webkit-linear-gradient(65deg, hsla(95, 14.4%, 50.98%, 1) 10%, hsla(95, 14.4%, 50.98%, 0) 80%),
+        -webkit-linear-gradient(135deg, hsla(84.21, 23.65%, 52.75%, 1) 15%, hsla(84.21, 23.65%, 52.75%, 0) 80%),
+        -webkit-linear-gradient(205deg, hsla(174.67, 40.91%, 56.86%, 1) 100%, hsla(174.67, 40.91%, 56.86%, 0) 70%);
+        background:
+        linear-gradient(135deg, hsla(9.23, 82.98%, 90.78%, 1) 0%, hsla(9.23, 82.98%, 90.78%, 0) 70%),
+        linear-gradient(25deg, hsla(95, 14.4%, 50.98%, 1) 10%, hsla(95, 14.4%, 50.98%, 0) 80%),
+        linear-gradient(315deg, hsla(84.21, 23.65%, 52.75%, 1) 15%, hsla(84.21, 23.65%, 52.75%, 0) 80%),
+        linear-gradient(245deg, hsla(174.67, 40.91%, 56.86%, 1) 100%, hsla(174.67, 40.91%, 56.86%, 0) 70%);
+    }
+
+img {
+    display: block;
+    border: 5px dotted #555;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    }
+
+.control-group {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: large;
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+    font-size: 150%;
+}
+
+.resume {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: large;
+    margin: auto;
+    background-color: #FBDAD4 ;
+    width: 85%;
+    border: 3px solid green;
+    
+}
+
+.control-group  {
+background-color: #FBDAD4 ;
+border: 1px solid green;
+}
+
+
